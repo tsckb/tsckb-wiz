@@ -1,0 +1,52 @@
+id="plugin.program.tsckb"  
+version="0.1.7"
+zip="http://tsckb.net/repo/plugin.program.tsckb.zip"
+
+
+name="TSCKB VE w/Guide"
+version="1.12"
+url="http://tsckb.net/wizard/builds/tsckbVE176.zip"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="No"
+description="The Streaming Crew Kodi Build Eminence "
+
+
+name="TSCKB Eminence V"
+version="1.0"
+url="http://tsckb.net/wizard/builds/eminenceV.zip"
+gui="http://"
+kodi="17.4"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="No"
+description="The Streaming Crew Kodi Build Eminence with V"
+
+
+
+name="TSCKB V"
+version="1.0"
+url="http://tsckb.net/wizard/builds/tsckbV.zip"
+gui="http://"
+kodi="17.3"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="No"
+description="The Streaming Crew Kodi Build with V"
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+4
+|||
+Welcome to the TSCKB Wizard
+When I make changes to a build any special notes will be listed here. 
+
+[COLOR orange]TSCKB VE w/Guide 1.1[/COLOR]
+Revised to remove the PVR guide. 
+Also removed Covenant  
+Fixed Closed Caption to default off
+added youtube addon
+
+You will have to enter user name & password.
+
